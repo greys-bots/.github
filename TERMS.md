@@ -36,5 +36,5 @@ We, the Grey Skies, own all rights to public data regarding these bots, includin
 Each bot is also subject to its own terms via the license file provided in each repository.
 
 ## Contact
-If you have questions or concerns regarding the terms here, please contact us at `(GS)#6969` on Discord, or [join the support server](https://discord.gg/EvDmXGt)
+If you have questions or concerns regarding the terms here, please contact us at `(GS)#6969` on Discord, or [join the support server](https://discord.gg/EvDmXGt)  
 If you are unable to use Discord, you may email us at `greysdawn@gmail.com`
