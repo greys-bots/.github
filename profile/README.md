@@ -19,7 +19,7 @@ To give some examples, here are some things we offer for free:
 - [Ticket Golem](https://github.com/greys-bots/ticket-golem) is only limited by the number of channels that can be in a category (and even then, you can create a new category for tickets- so it's really only limited by the total channel limit)
 - [Ocelot](https://github.com/greys-bots/ocelot) is only limited by the number of roles you can have in a server
 
-The only *specifically implemented* hard limits are either based on resource usage (eg. Sheep can only import 100 saved colors at once) or Discord limitations (eg. Fox's 20 questions limit), and we are working on removing or upping these limits all the time!
+The only *specifically implemented* hard limits are either based on resource usage (eg. Sheep can only import 100 saved colors at once) or Discord limitations, and we are working on removing or upping these limits all the time!
 
 ## Completely open source
 You're here on Github! That means you can see the code for everything in this repo. It also means you can download that code and run it yourself- or even contribute to the repository with issues and pull requests. Nothing in our bots is hidden from the public, and the more recent ones have self hosting instructions for folks who want to take a crack at running their own versions of each bot
@@ -32,4 +32,4 @@ If you need help with something, or just wanna talk to us, feel free to contact 
 Bots mean a lot to us. We also know how much bots mean to others, and we're more than willing to help craft the perfect bot for you. If you're interested, you can check out our [commission sheet](https://docs.google.com/document/d/1HfCSKHDRkiQG2zPI4zt-iG93ZjeI3dJ1I0VIpVMFWtk/edit?usp=sharing)
 
 ## Patronage and donations
-If you like what we do and want to help out, we have a [Patreon](https://patreon.com/greysdawn) where we post our art and a [Ko-Fi](https://ko-fi.com/greysdawn) for one-off donations! We've also got a page where you can [buy us a coffee](https://www.buymeacoffee.com/greysdawn) if that's your jam
+If you like what we do and want to help out, we have a [Patreon](https://patreon.com/greysdawn) where we post our coding progress reports and a [Ko-Fi](https://ko-fi.com/greysdawn) for one-off donations! We've also got a page where you can [buy us a coffee](https://www.buymeacoffee.com/greysdawn) if that's your jam
